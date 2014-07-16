@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Rajdhani-Bold.otf.otf.GlyphOrder.ttx"/>
+  <head src="Rajdhani-Bold.otf.otf._h_e_a_d.ttx"/>
+  <hhea src="Rajdhani-Bold.otf.otf._h_h_e_a.ttx"/>
+  <maxp src="Rajdhani-Bold.otf.otf._m_a_x_p.ttx"/>
+  <OS_2 src="Rajdhani-Bold.otf.otf.O_S_2f_2.ttx"/>
+  <name src="Rajdhani-Bold.otf.otf._n_a_m_e.ttx"/>
+  <cmap src="Rajdhani-Bold.otf.otf._c_m_a_p.ttx"/>
+  <post src="Rajdhani-Bold.otf.otf._p_o_s_t.ttx"/>
+  <CFF src="Rajdhani-Bold.otf.otf.C_F_F_.ttx"/>
+  <FFTM src="Rajdhani-Bold.otf.otf.F_F_T_M_.ttx"/>
+  <GDEF src="Rajdhani-Bold.otf.otf.G_D_E_F_.ttx"/>
+  <GPOS src="Rajdhani-Bold.otf.otf.G_P_O_S_.ttx"/>
+  <GSUB src="Rajdhani-Bold.otf.otf.G_S_U_B_.ttx"/>
+  <hmtx src="Rajdhani-Bold.otf.otf._h_m_t_x.ttx"/>
+</ttFont>
