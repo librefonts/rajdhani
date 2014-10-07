@@ -1,0 +1,9 @@
+commit: HEAD
+process_files: [Rajdhani-SemiBold.ttf.ttx, Rajdhani-Regular.ttf.ttx, Rajdhani-Medium.ttf.ttx,
+  Rajdhani-Bold.ttf.ttx, Rajdhani-Light.ttf.ttx, src/Rajdhani-Regular.otf.ttx, src/Rajdhani-Light.otf.ttx,
+  src/Rajdhani-Medium.otf.ttx, src/Rajdhani-Regular.otf.otf.ttx, src/Rajdhani-Bold.otf.ttx,
+  src/Rajdhani-SemiBold.otf.otf.ttx, src/Rajdhani-Light.otf.otf.ttx, src/Rajdhani-Bold.otf.otf.ttx,
+  src/Rajdhani-Medium.otf.otf.ttx, src/Rajdhani-SemiBold.otf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
